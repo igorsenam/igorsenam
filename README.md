@@ -2,12 +2,11 @@
 
 - 🔭 I work with back-end, mostly creating and updating python scripts to automate human process in my company
 - 🌱 I'm trying to learn how to create an efficient API
-
 <!-- Github Status -->
 <div align="center">
   <a href="https://github.com/igormarques1170670">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=igormarques1170670&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormarques1170670&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=igormarques1170670&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormarques1170670&layout=compact&theme=dracula"/>
 </div>
 <!-- Tech Images -->  
 <div style="display: inline_block"><br>
