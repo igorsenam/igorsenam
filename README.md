@@ -1,7 +1,7 @@
 ## Hi there! My name is Igor.
 
 - 🔭 I work with back-end, mostly creating and updating python scripts to automate human process in my company
-- 🌱 I'm trying to learn how to create an efficient API
+- 🌱 -
 
 <!-- Github Status -->
 <div align="center">
