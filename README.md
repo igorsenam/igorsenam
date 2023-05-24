@@ -1,7 +1,7 @@
 ## Hi there! My name is Igor.
 
-- 🔭 I work with back-end, mostly creating and updating python scripts to automate human process in my company
-- 🌱 -
+- 🔭 I work as a fullstack developer at my company
+- 🌱 I'm currently studying cibersecurity at PUC University
 
 <!-- Github Status -->
 <div align="center">
