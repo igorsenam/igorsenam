@@ -1,7 +1,7 @@
 ## Hi there! My name is Igor.
 
 - 🔭 I work as a fullstack developer at my company
-- 🌱 I'm currently studying cibersecurity at PUC University
+- 🌱 I'm currently studying cybersecurity at PUC University
 
 <!-- Github Status -->
 <div align="center">
