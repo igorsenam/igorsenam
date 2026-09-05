@@ -1,14 +1,6 @@
 ## Hi there! My name is Igor.
 
-- 🔭 I work as a fullstack developer at my company
-- 🌱 I'm currently studying cybersecurity at PUC University
-
-<!-- Github Status -->
-<div align="center">
-  <a href="https://github.com/igormarques1170670">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=igorsenam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsenam&layout=compact&theme=dracula"/>
-</div>
+- 🔭 I work as a fullstack developer at @Camedics
 <!-- Tech Images -->  
 <div style="display: inline_block"><br>
   <img align="center" alt="Irgo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
